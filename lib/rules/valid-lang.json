@@ -5,7 +5,8 @@
   "tags": [
     "cat.language",
     "wcag2aa",
-    "wcag312"
+    "wcag312",
+    "EN.301.549.9.2.28"
   ],
   "metadata": {
     "description": "Ensures lang attributes have valid values",

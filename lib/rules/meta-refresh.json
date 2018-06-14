@@ -8,7 +8,8 @@
     "wcag2aaa",
     "wcag221",
     "wcag224",
-    "wcag325"
+    "wcag325",
+    "EN.301.549.9.2.17"
   ],
   "metadata": {
     "description": "Ensures <meta http-equiv=\"refresh\"> is not used",

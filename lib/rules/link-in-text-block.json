@@ -7,13 +7,16 @@
     "cat.color",
     "experimental",
     "wcag2a",
-    "wcag141"
+    "wcag141",
+    "EN.301.549.9.2.10"
   ],
   "metadata": {
     "description": "Links can be distinguished without relying on color",
     "help": "Links must be distinguished from surrounding text in a way that does not rely on color"
   },
-  "all": ["link-in-text-block"],
+  "all": [
+    "link-in-text-block"
+  ],
   "any": [],
   "none": []
 }

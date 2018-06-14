@@ -6,7 +6,8 @@
     "wcag2a",
     "wcag131",
     "section508",
-    "section508.22.g"
+    "section508.22.g",
+    "EN.301.549.9.2.7"
   ],
   "metadata": {
     "description": "Ensure that each cell in a table using the headers refers to another cell in that table",

@@ -4,7 +4,8 @@
   "tags": [
     "cat.aria",
     "wcag2a",
-    "wcag131"
+    "wcag131",
+    "EN.301.549.9.2.7"
   ],
   "metadata": {
     "description": "Ensures elements with an ARIA role that require child roles contain them",

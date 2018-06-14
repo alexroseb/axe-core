@@ -6,7 +6,8 @@
     "wcag2a",
     "wcag211",
     "section508",
-    "section508.22.f"
+    "section508.22.f",
+    "EN.301.549.9.2.15"
   ],
   "metadata": {
     "description": "Ensures that server-side image maps are not used",

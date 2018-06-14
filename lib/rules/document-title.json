@@ -5,7 +5,8 @@
   "tags": [
     "cat.text-alternatives",
     "wcag2a",
-    "wcag242"
+    "wcag242",
+    "EN.301.549.9.2.21"
   ],
   "metadata": {
     "description": "Ensures each HTML document contains a non-empty <title> element",

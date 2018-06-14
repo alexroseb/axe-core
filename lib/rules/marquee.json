@@ -5,7 +5,8 @@
   "tags": [
     "cat.parsing",
     "wcag2a",
-    "wcag222"
+    "wcag222",
+    "EN.301.549.9.2.18"
   ],
   "metadata": {
     "description": "Ensures <marquee> elements are not used",

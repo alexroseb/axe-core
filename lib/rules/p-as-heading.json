@@ -6,13 +6,16 @@
     "cat.semantics",
     "wcag2a",
     "wcag131",
-    "experimental"
+    "experimental",
+    "EN.301.549.9.2.7"
   ],
   "metadata": {
     "description": "Ensure p elements are not used to style headings",
     "help": "Bold, italic text and font-size are not used to style p elements as a heading"
   },
-  "all": ["p-as-heading"],
+  "all": [
+    "p-as-heading"
+  ],
   "any": [],
   "none": []
 }

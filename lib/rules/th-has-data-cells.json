@@ -7,7 +7,8 @@
     "wcag2a",
     "wcag131",
     "section508",
-    "section508.22.g"
+    "section508.22.g",
+    "EN.301.549.9.2.7"
   ],
   "metadata": {
     "description": "Ensure that each table header in a data table refers to data cells",

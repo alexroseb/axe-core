@@ -5,7 +5,8 @@
   "tags": [
     "cat.parsing",
     "wcag2a",
-    "wcag411"
+    "wcag411",
+    "EN.301.549.9.2.37"
   ],
   "metadata": {
     "description": "Ensures every id attribute value is unique",

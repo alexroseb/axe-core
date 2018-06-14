@@ -4,7 +4,8 @@
   "tags": [
     "cat.aria",
     "wcag2a",
-    "wcag411"
+    "wcag411",
+    "EN.301.549.9.2.37"
   ],
   "metadata": {
     "description": "Ensures attributes that begin with aria- are valid ARIA attributes",

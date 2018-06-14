@@ -6,7 +6,10 @@
     "wcag2a",
     "wcag131",
     "wcag411",
-    "wcag412"
+    "wcag412",
+    "EN.301.549.9.2.7",
+    "EN.301.549.9.2.37",
+    "EN.301.549.9.2.38"
   ],
   "metadata": {
     "description": "Ensures all ARIA attributes have valid values",

@@ -5,7 +5,8 @@
   "tags": [
     "cat.structure",
     "wcag2a",
-    "wcag131"
+    "wcag131",
+    "EN.301.549.9.2.7"
   ],
   "metadata": {
     "description": "Ensures that lists are structured correctly",

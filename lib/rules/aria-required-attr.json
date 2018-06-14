@@ -5,7 +5,9 @@
     "cat.aria",
     "wcag2a",
     "wcag411",
-    "wcag412"
+    "wcag412",
+    "EN.301.549.9.2.37",
+    "EN.301.549.9.2.38"
   ],
   "metadata": {
     "description": "Ensures elements with ARIA roles have all required ARIA attributes",

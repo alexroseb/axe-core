@@ -5,7 +5,8 @@
   "tags": [
     "cat.semantics",
     "wcag2a",
-    "wcag131"
+    "wcag131",
+    "EN.301.549.9.2.7"
   ],
   "metadata": {
     "description": "Ensures presentational <table> elements do not use <th>, <caption> elements or the summary attribute",

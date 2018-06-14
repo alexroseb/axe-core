@@ -7,7 +7,9 @@
     "wcag241",
     "wcag412",
     "section508",
-    "section508.22.i"
+    "section508.22.i",
+    "EN.301.549.9.2.20",
+    "EN.301.549.9.2.38"
   ],
   "metadata": {
     "description": "Ensures <iframe> and <frame> elements contain a non-empty title attribute",
